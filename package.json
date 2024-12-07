@@ -1,0 +1,19 @@
+{
+  "name": "backend01",
+  "version": "1.0.0",
+  "description": "A basic backend to understand",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "chaiNCode"
+  ],
+  "author": "Saumyajeet Varma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
